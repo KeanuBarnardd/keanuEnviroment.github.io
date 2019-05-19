@@ -1,0 +1,77 @@
+/****************Tag******************/
+body{
+  text-align: center;
+  margin: 0 0 0 0;
+  font-family: 'Merriweather',serif;
+}
+
+h1{
+  font-family: 'Poppins',sans-serif;
+}
+
+img{
+  width: 9.5rem;
+}
+
+a{
+  color: #11999E;
+  text-decoration: none;
+  font-weight: bold;
+  font-family:'Poppins',sans-serif;
+  margin-left: 25px;
+}
+
+
+hr{
+  margin: 50px auto 50px auto;
+  width: 10%;
+  border-style: dotted none none;
+  border-color: #ABEBC6;
+  border-width: 0.5rem;
+}
+/****************Classes**************/
+
+.header{
+  margin:auto;
+  background-color: #A9DFBF;
+  margin: 0px 0px 20px 0px;
+  padding-top: 6em;
+  padding-bottom: 5rem;
+}
+
+.title{
+  font-size: 5.2em;
+  position: relative;
+  margin-bottom: 0;
+}
+
+.skill-section{
+  width: 30%;
+  margin: 50px auto 20px auto;
+}
+
+.header-image{
+  width: 100px;
+}
+
+.footer{
+  background-color: #A9DFBF;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  margin-top:20px;
+}
+
+.contact-me-button{
+  background-color: #4CAF50;
+  border:none;
+  border-radius: 2px;
+  height: 3rem;
+  width: 7rem;
+  font-weight: bold;
+  font-family: 'Poppins',sans-serif;
+}
+/****************ID**************/
+
+#subtitle{
+  font-size: 2rem;
+}
